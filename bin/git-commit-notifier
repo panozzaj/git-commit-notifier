@@ -18,4 +18,3 @@ when 3
 else
   CommitHook.run ARGV[0], ARGV[1], ARGV[2], ARGV[3]
 end
-
